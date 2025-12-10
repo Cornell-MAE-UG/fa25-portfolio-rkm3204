@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Rachel Moore>
+title: <Your Name>
 ---
 
 ## About Me

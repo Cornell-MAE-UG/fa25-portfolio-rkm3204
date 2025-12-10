@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: MAE4300 Project Writeup
+description: Portfolio for Engineering Society Class
+technologies: [Online Research]
+image: /assets/images/BoeingPlane.jpg
 ---
 
 

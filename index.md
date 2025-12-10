@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Rachel Moore
 ---
 
 ## About Me
@@ -9,8 +9,14 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/RachelMoore.JPG" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am a Senior studying Mechanical Engineering at Cornell University. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Rachel Moore, and I am a Senior majoring in Mechanical Engineering at Cornell University. I am also minoring in Aerospace Engineering, creating a focus on my passion for the Aerospace Industry. My work blends engineering analysis with hands-on fabrication, data-driven experimentation, and a curiosity for how complex systems behave in the real world.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I’ve built and tested projects from wind-turbine blades to gliders to static thrust test rigs, and color-sensing autonomous robots. Across these projects, I’ve developed strong experience in MATLAB, Arduino, Python, and experimental aerodynamics tools such as pitot-static tubes, load cells, and hot-wire probes. I love combining coding, hardware, and physics to solve messy, open-ended engineering problems.
+
+Outside of my work, I enjoy hiking, traveling, and trying new coffee shops!
+I’m driven by curiosity, precision, and the desire to design systems that are technically innovative.
+If you’d like to connect or collaborate, feel free to reach out!
+
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

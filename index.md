@@ -6,7 +6,7 @@ title: Rachel Moore
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/RachelMoore.JPG" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/RachelMoore.JPG" | relative_url }}){: class="profile-image"}{: .inline-image-r style="width: 400px"}
 
  
 My name is Rachel Moore, and I am a Senior majoring in Mechanical Engineering at Cornell University. I am also minoring in Aerospace Engineering, creating a focus on my passion for the Aerospace Industry. My work blends engineering analysis with hands-on fabrication, data-driven experimentation, and a curiosity for how complex systems behave in the real world.
